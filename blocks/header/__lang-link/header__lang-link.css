@@ -1,0 +1,12 @@
+.header__lang-link {
+    margin-left: 18px;
+    padding: 0;
+}
+
+.header__lang-link:last-child {
+    text-decoration: none;
+}
+
+.header__lang-link:visited {
+    color: white;
+}

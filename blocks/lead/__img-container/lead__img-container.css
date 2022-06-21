@@ -1,0 +1,12 @@
+.lead__img-container {
+    max-width: 984px;
+    width: calc(100%-2*148px);
+    margin: 0 auto;
+}
+
+@media (max-width: 1024px) {
+    .lead__img-container {
+        max-width: 928px;
+        width: calc(100%-2*48px);
+    }
+}
