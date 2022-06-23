@@ -1,12 +1,18 @@
 .header__lang-link {
     margin-left: 18px;
     padding: 0;
+    padding-bottom: 4px;
+    text-decoration: none;
+    color: #FFFFFF;
+    opacity: 1;
+    transition: opacity .5s ease-out;
 }
 
-.header__lang-link:last-child {
-    text-decoration: none;
+
+.header__lang-link:hover {
+    opacity: .8;
 }
 
 .header__lang-link:visited {
-    color: white;
+    color: #FFFFFF;
 }

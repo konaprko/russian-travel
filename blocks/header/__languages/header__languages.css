@@ -7,7 +7,6 @@
     line-height: 28px;
 }
 
-
 @media (max-width: 425px) {
     .header__languages {
         font-size: 18px;

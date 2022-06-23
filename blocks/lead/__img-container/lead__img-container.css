@@ -10,3 +10,9 @@
         width: calc(100% - 2*48px);
     }
 }
+
+@media (max-width: 768px) {
+    .lead__img-container {
+        width: 100%;
+    }
+}

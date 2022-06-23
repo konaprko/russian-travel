@@ -1,3 +1,16 @@
 .place__image {
-width: 100%;
+    width: 100%;
+    max-width: 460px;
+}
+
+@media (max-width: 1100px) {
+    .place__image {
+        max-width: 440px;
+    }
+}
+
+@media (max-width: 900px) {
+    .place__image {
+        max-width: 340px;
+    }
 }

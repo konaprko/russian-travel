@@ -16,4 +16,9 @@
         padding-top: 16px;
 
     }
+
+
+    .span_test::after {
+        content: '';
+    }
 }

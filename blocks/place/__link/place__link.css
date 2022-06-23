@@ -5,6 +5,7 @@
     text-decoration-line: underline;
     color: #FFFFFF;
     opacity: 1;
+    transition: opacity .5s ease-out;
 }
 
 .place__link:visited {
@@ -12,7 +13,5 @@
 }
 
 .place__link:hover {
-    opacity: 0.8;
-    transition: opacity .5s ease-out;
+    opacity: .8;
 }
-
