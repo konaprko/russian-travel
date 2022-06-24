@@ -1,0 +1,5 @@
+@media (max-width: 768px) {
+    .place__title_wrap_two-rows {
+        padding-right: 50px;
+    }
+}

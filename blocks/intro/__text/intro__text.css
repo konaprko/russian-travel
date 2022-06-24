@@ -4,11 +4,4 @@
     line-height: 26px;
     margin: 0;
     max-width: 690px;
-    max-height: 208px;
-}
-
-@media (max-width: 720px) {
-    .intro__text {
-        max-height: 520px;
-    }
 }

@@ -7,8 +7,17 @@
     line-height: 100px;
 }
 
-
 @media (max-width: 720px) {
+    .lead__title {
+        font-size: 60px;
+        max-width: 425px;
+        line-height: 70px;
+    }
+}
+
+
+
+@media (max-width: 425px) {
     .lead__title {
         max-width: 288px;
         font-size: 40px;
