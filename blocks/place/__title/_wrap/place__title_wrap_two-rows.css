@@ -3,3 +3,9 @@
         padding-right: 50px;
     }
 }
+
+@media (max-width: 425px) {
+    .place__title_wrap_two-rows {
+        padding-right: 0;
+    }
+}

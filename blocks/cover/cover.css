@@ -1,10 +1,8 @@
-
 .cover {
     max-width: 1184px;
     width: calc(100% - 2*48px);
     margin: 0 auto;
     padding-top: 92px;
-
 }
 
 
@@ -25,4 +23,3 @@
         padding-top: 66px;
     }
 }
-

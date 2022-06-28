@@ -17,7 +17,7 @@
         font-size: 16px;
         line-height: 26px;
         margin-bottom: 25px;
-        width: 352px;
+        max-width: 352px;
     }
 }
 
@@ -27,5 +27,5 @@
         margin-right: 16px;
         max-width: 288px;
     }
-}
 
+}
